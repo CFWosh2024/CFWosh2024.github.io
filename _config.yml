@@ -23,7 +23,7 @@ title: LP-EMS20
 description: >- # this means to ignore newlines until "baseurl:"
   6th Low Power EMbedded Systems Workshop
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lpems.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cfwosh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
