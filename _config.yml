@@ -32,7 +32,7 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
-logo: image.jpg
+logo: Logo_OSHW_final.jpg
 
 # Exclude from processing.
 # The following items will not be processed, by default.
