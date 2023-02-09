@@ -21,7 +21,7 @@
 title: CF23-OSHW
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Workshop on Open-Source Hardware 
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cfwosh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

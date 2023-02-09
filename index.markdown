@@ -25,7 +25,7 @@ The workshop aims to bring together researchers and practitioners working in the
 Submissions should be in the form of an extended abstract (6 pages), formatted according to the double-column ACM conference format, accompanied by a link to a public repository (GitHub, etc.). Accepted abstracts will be included in the workshop proceedings and published in the ACM Digital Library. At least one author of an accepted abstract is required to register for the whole Computing Frontiers 2023 conference.
 
 #### Submission page and information
-Submit at [<ADD LINK>](<ADD LINK>).
+Submit at [https://easychair.org/my/conference?conf=oshw23](https://easychair.org/my/conference?conf=oshw23).
 
 Proceedings from the workshop will be published by ACM along with regular Computing Frontiers papers.
 
