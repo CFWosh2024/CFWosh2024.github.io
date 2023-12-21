@@ -11,7 +11,8 @@ layout: default
 We are excited to announce a new workshop on the topic of open-source hardware, to be held concurrently with Computing Frontiers 2024.
 
 #### Aim and Scope
-The workshop aims to bring together researchers and practitioners working in the fields of computer architecture, electrical engineering, and computer science to discuss and share their latest research and developments in open hardware and open-source hardware. We welcome submissions on a wide range of topics, including but not limited to:
+
+The workshop aims to bring together researchers and practitioners working in the fields of computer architecture, electrical engineering, and computer science to discuss and share their latest research and developments in open-source hardware and related open-source software. We welcome submissions on a wide range of topics, including but not limited to:
 
 - Design/implementation based on open-source processors, memory systems, and I/O devices
 - CAD tools and methodologies for hardware design based on open-source
