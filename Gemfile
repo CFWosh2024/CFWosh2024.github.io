@@ -15,6 +15,9 @@ gem "jekyll-theme-minimal", "~> 0.1.1"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", "~> 203", group: :jekyll_plugins
 # If you have any plugins, put them here!
+
+gem 'jekyll-watch'
+
 group :jekyll_plugins do
 	gem "jekyll-feed", "~> 0.13.0"
 end
