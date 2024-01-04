@@ -6,7 +6,7 @@ layout: default
 ## Workshop on Open-Source Hardware 
 
 ***Co-located with 21th ACM International Conference on Computing Frontiers (CF' 24)***
-***May 7 - May 9, 2023 - Ischia (NA), Italy***
+***May 7 - May 9, 2024 - Ischia (NA), Italy***
 
 We are excited to announce a new workshop on the topic of open-source hardware, to be held concurrently with Computing Frontiers 2024.
 
@@ -32,9 +32,9 @@ Submit at [https://easychair.org/my/conference?conf=oshw23](https://easychair.or
 Proceedings from the workshop will be published by ACM along with regular Computing Frontiers papers.
 
 #### Important dates
- - Abstract submission deadline: **March 6, 2024**
- - Notification of acceptance: **March 17, 2024**
- - Camera ready deadline: **March 24, 2024**
+ - Abstract submission deadline: **March 3, 2024**
+ - Notification of acceptance: **March 10, 2024**
+ - Camera ready deadline: **March 17, 2024**
 
 #### Workshop co-chairs:
 The co-chairs:
