@@ -62,7 +62,7 @@ We look forward to receiving your submissions and seeing you at the workshop!
 | 6        | Performance evaluation of acceleration of convolutional layers on OpenEdgeCGRA                                        | 18            | 15    | 3   |
 | 7        | Open-Source Elastic CGRA Generator                                                                                    | 18            | 15    | 3   |
 |          | BREAK                                                                                                                 | 15            |       |     |
-| 12       | "A Gigabit, DMA-enhanced Open-Source Ethernet Controller for Mixed-Criticality Systems"                               | 18            | 15    | 3   |
+| 12       | A Gigabit, DMA-enhanced Open-Source Ethernet Controller for Mixed-Criticality Systems                                 | 18            | 15    | 3   |
 | 2        | Implementation and integration of NTT/INTT accelerator on RISC-V for CRYSTALS-Kyber                                   | 18            | 15    | 3   |
 | 8        | Model theft attack against a tinyML application running on an Ultra-Low-Power Open-Source SoC                         | 18            | 15    | 3   |
 
