@@ -46,3 +46,25 @@ The co-chairs:
 For more information or any questions, please contact us.
 
 We look forward to receiving your submissions and seeing you at the workshop!
+
+## Tentative Program
+
+| PAPER ID | TITLE OF THE TALK                                                                                                     | TIME (min)    | PRES. | Q&A |
+|----------|-----------------------------------------------------------------------------------------------------------------------|---------------|-------|-----|
+|          | INVITED                                                                                                               | 25            | 20    | 5   |
+| 1        | Using a Performance Model to Implement a Superscalar CVA6                                                             | 18            | 15    | 3   |
+| 11       | Seeing Beyond the Order: a LEN5 to Sharpen Edge Microprocessors with Dynamic Scheduling                               | 18            | 15    | 3   |
+| 3        | Integrating SystemC-AMS Power Modeling with a RISC-V ISS for Virtual Prototyping of Battery-operated Embedded Devices | 18            | 15    | 3   |
+| 5        | Stitching FPGA Fabrics with FABulous and OpenLane 2                                                                   | 18            | 15    | 3   |
+|          | BREAK                                                                                                                 | 15            |       |     |
+| 10       | NARS: Neuromorphic Acceleration through Register-Streaming Extensions on RISC-V Cores                                 | 18            | 15    | 3   |
+| 9        | muRISCV-NN: Challenging Zve32x Autovectorization with TinyML Inference Library for RISC-V Vector Extension            | 18            | 15    | 3   |
+| 6        | Performance evaluation of acceleration of convolutional layers on OpenEdgeCGRA                                        | 18            | 15    | 3   |
+| 7        | Open-Source Elastic CGRA Generator                                                                                    | 18            | 15    | 3   |
+|          | BREAK                                                                                                                 | 15            |       |     |
+| 12       | "A Gigabit, DMA-enhanced Open-Source Ethernet Controller for Mixed-Criticality Systems"                               | 18            | 15    | 3   |
+| 2        | Implementation and integration of NTT/INTT accelerator on RISC-V for CRYSTALS-Kyber                                   | 18            | 15    | 3   |
+| 8        | Model theft attack against a tinyML application running on an Ultra-Low-Power Open-Source SoC                         | 18            | 15    | 3   |
+
+
+
